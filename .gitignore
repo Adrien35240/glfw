@@ -53,6 +53,10 @@ src/glfw3.pc
 src/glfw3Config.cmake
 src/glfw3ConfigVersion.cmake
 
+# Generated folder
+bin
+bin-int
+
 # Compiled binaries
 src/libglfw.so
 src/libglfw.so.3
